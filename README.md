@@ -1,6 +1,6 @@
 # Financial Analysis of College Degrees Using Python
-Final Project Report
-1.	Overview of the Data
+
+## 1.	Overview of the Data
 The dataset, Degrees That Pay Back, contains financial metrics for various undergraduate degrees. Key attributes include Undergraduate Major, Starting Median Salary, Mid-Career Median Salary, and additional percentile data for salaries at different career stages (e.g., 10th, 25th, 75th, 90th). The analysis focuses on the Mid-Career Median Salary, which provides a measure of financial outcomes for professionals in their mid-career.
 
 2.	Chosen Data Structures
